@@ -1,0 +1,14 @@
+C:\Users\jorya\source\repos\FileSystemExplorer\FileSystemExplorer.ConsolApp\obj\Debug\net8.0\FileSystemExplorer.ConsolApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorya\source\repos\FileSystemExplorer\FileSystemExplorer.ConsolApp\obj\Debug\net8.0\FileSystemExplorer.ConsolApp.AssemblyInfoInputs.cache
+C:\Users\jorya\source\repos\FileSystemExplorer\FileSystemExplorer.ConsolApp\obj\Debug\net8.0\FileSystemExplorer.ConsolApp.AssemblyInfo.cs
+C:\Users\jorya\source\repos\FileSystemExplorer\FileSystemExplorer.ConsolApp\obj\Debug\net8.0\FileSystemExplorer.ConsolApp.csproj.CoreCompileInputs.cache
+C:\Users\jorya\source\repos\FileSystemExplorer\FileSystemExplorer.ConsolApp\bin\Debug\net8.0\FileSystemExplorer.ConsolApp.exe
+C:\Users\jorya\source\repos\FileSystemExplorer\FileSystemExplorer.ConsolApp\bin\Debug\net8.0\FileSystemExplorer.ConsolApp.deps.json
+C:\Users\jorya\source\repos\FileSystemExplorer\FileSystemExplorer.ConsolApp\bin\Debug\net8.0\FileSystemExplorer.ConsolApp.runtimeconfig.json
+C:\Users\jorya\source\repos\FileSystemExplorer\FileSystemExplorer.ConsolApp\bin\Debug\net8.0\FileSystemExplorer.ConsolApp.dll
+C:\Users\jorya\source\repos\FileSystemExplorer\FileSystemExplorer.ConsolApp\bin\Debug\net8.0\FileSystemExplorer.ConsolApp.pdb
+C:\Users\jorya\source\repos\FileSystemExplorer\FileSystemExplorer.ConsolApp\obj\Debug\net8.0\FileSystemExplorer.ConsolApp.dll
+C:\Users\jorya\source\repos\FileSystemExplorer\FileSystemExplorer.ConsolApp\obj\Debug\net8.0\refint\FileSystemExplorer.ConsolApp.dll
+C:\Users\jorya\source\repos\FileSystemExplorer\FileSystemExplorer.ConsolApp\obj\Debug\net8.0\FileSystemExplorer.ConsolApp.pdb
+C:\Users\jorya\source\repos\FileSystemExplorer\FileSystemExplorer.ConsolApp\obj\Debug\net8.0\FileSystemExplorer.ConsolApp.genruntimeconfig.cache
+C:\Users\jorya\source\repos\FileSystemExplorer\FileSystemExplorer.ConsolApp\obj\Debug\net8.0\ref\FileSystemExplorer.ConsolApp.dll
